@@ -1,16 +1,29 @@
-## Hi there 👋
+# Threatlens
+# Daniel Benavides
 
-<!--
-**Dani-Bena/Dani-Bena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DAW student with a background in criminology.  
+Currently focused on learning cybersecurity and backend development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current focus
+- Cybersecurity fundamentals
+- Backend development
+- OSINT and threat analysis (learning phase)
+
+---
+
+## 🛠 Learning
+Python · APIs · Git · Linux · Networking basics
+
+---
+
+## 📌 Goals
+- Build security-focused projects
+- Develop a strong foundation in cybersecurity
+- Apply criminology to threat analysis
+
+---
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/daniel-benavides-garc%C3%ADa-63617323b/)
