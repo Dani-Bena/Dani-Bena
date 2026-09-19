@@ -1,29 +1,48 @@
-# Threatlens
-# Daniel Benavides
+# 👋 Hola, soy Daniel Benavides
 
-DAW student with a background in criminology.  
-Currently focused on learning cybersecurity and backend development.
+Desarrollador Full-Stack en formación y estudiante de Desarrollo de Aplicaciones Web (DAW).
 
----
+Actualmente estoy centrado en desarrollar aplicaciones web completas, especialmente en arquitectura backend, APIs REST, bases de datos y lógica de negocio.
 
-## 🎯 Current focus
-- Cybersecurity fundamentals
-- Backend development
-- OSINT and threat analysis (learning phase)
+## 🚀 Proyecto destacado
 
----
+### BenxCore
 
-## 🛠 Learning
-Python · APIs · Git · Linux · Networking basics
+ERP Full-Stack para gestión empresarial desarrollado con React, TypeScript, Node.js, Express, Prisma y PostgreSQL.
 
----
+Incluye:
 
-## 📌 Goals
-- Build security-focused projects
-- Develop a strong foundation in cybersecurity
-- Apply criminology to threat analysis
+- Gestión de clientes, productos y usuarios
+- Autenticación JWT y sistema de roles
+- Facturación y series de numeración
+- Pagos parciales y completos
+- Generación de facturas y comprobantes PDF
+- Contabilidad automática mediante partida doble
+- Auditoría de operaciones
+- Tests automatizados
 
----
+👉 Repositorio: https://github.com/Dani-Bena/BenxCore
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/daniel-benavides-garc%C3%ADa-63617323b/)
+## 🛠️ Tecnologías
+
+**Frontend**  
+TypeScript · JavaScript · React · HTML · CSS
+
+**Backend**  
+Node.js · Express · Java · Spring Boot · REST APIs
+
+**Bases de datos**  
+PostgreSQL · SQL · Prisma ORM
+
+**Herramientas**  
+Git · GitHub · Docker · Vitest · Supertest
+
+## 📚 Actualmente
+
+🎓 Estudiante de Desarrollo de Aplicaciones Web  
+💻 Desarrollando y ampliando BenxCore  
+🔎 Buscando oportunidades para realizar prácticas de DAW y seguir creciendo como desarrollador
+
+## 📫 Contacto
+
+LinkedIn: https://www.linkedin.com/in/danielbenavides-dev/
