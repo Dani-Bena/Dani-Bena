@@ -1,29 +1,31 @@
-# 👋 Hola, soy Daniel Benavides
+# Hi, I'm Daniel Benavides 👋
 
-Desarrollador Full-Stack en formación y estudiante de Desarrollo de Aplicaciones Web (DAW).
+Full-Stack Developer in training and currently studying Web Application Development (DAW) in Spain.
 
-Actualmente estoy centrado en desarrollar aplicaciones web completas, especialmente en arquitectura backend, APIs REST, bases de datos y lógica de negocio.
+I'm focused on building complete web applications, with a particular interest in backend development, REST APIs, databases and business logic.
 
-## 🚀 Proyecto destacado
+## 🚀 Featured Project
 
 ### BenxCore
 
-ERP Full-Stack para gestión empresarial desarrollado con React, TypeScript, Node.js, Express, Prisma y PostgreSQL.
+A Full-Stack ERP designed to manage core business operations from a single application.
 
-Incluye:
+Built with **React, TypeScript, Node.js, Express, Prisma and PostgreSQL**.
 
-- Gestión de clientes, productos y usuarios
-- Autenticación JWT y sistema de roles
-- Facturación y series de numeración
-- Pagos parciales y completos
-- Generación de facturas y comprobantes PDF
-- Contabilidad automática mediante partida doble
-- Auditoría de operaciones
-- Tests automatizados
+Key features:
 
-👉 Repositorio: https://github.com/Dani-Bena/BenxCore
+- Client, product and user management
+- JWT authentication and role-based access
+- Invoice creation and sequential numbering
+- Partial and full payment management
+- Automatic double-entry accounting
+- Invoice and payment receipt PDF generation
+- Audit logging
+- Automated testing
 
-## 🛠️ Tecnologías
+👉 [View BenxCore](https://github.com/Dani-Bena/BenxCore)
+
+## 🛠️ Tech Stack
 
 **Frontend**  
 TypeScript · JavaScript · React · HTML · CSS
@@ -31,18 +33,18 @@ TypeScript · JavaScript · React · HTML · CSS
 **Backend**  
 Node.js · Express · Java · Spring Boot · REST APIs
 
-**Bases de datos**  
+**Databases**  
 PostgreSQL · SQL · Prisma ORM
 
-**Herramientas**  
+**Tools & Testing**  
 Git · GitHub · Docker · Vitest · Supertest
 
-## 📚 Actualmente
+## 🌱 Currently
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web  
-💻 Desarrollando y ampliando BenxCore  
-🔎 Buscando oportunidades para realizar prácticas de DAW y seguir creciendo como desarrollador
+- 🎓 Studying Web Application Development (DAW)
+- 💻 Building and improving BenxCore
+- 🔎 Looking for an internship where I can contribute to real-world software projects and continue growing as a developer
 
-## 📫 Contacto
+## 📫 Connect with me
 
-LinkedIn: https://www.linkedin.com/in/danielbenavides-dev/
+[LinkedIn](https://www.linkedin.com/in/danielbenavides-dev/)
